@@ -1,0 +1,22 @@
+.courses-section {
+    background-color: white;
+  }
+  .courses-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .course-image {
+    border-radius: 16px;
+  }
+  .course-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+  }
+  .course-card {
+    border-radius: 16px;
+  }

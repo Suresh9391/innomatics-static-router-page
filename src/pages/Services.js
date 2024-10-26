@@ -1,7 +1,7 @@
 import React from 'react';
-import './Courses.css'
+import './Services.css'
 
-const Courses= () => {
+const Services= () => {
   return (
     <div className="courses-section pt-5 pb-5" >
         <div className="container-fluid">
@@ -76,4 +76,4 @@ const Courses= () => {
   );
 } 
 
-export default Courses;
+export default Services;

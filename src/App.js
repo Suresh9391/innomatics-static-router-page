@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
-import Courses from './pages/Courses';
+import  Services from './pages/Services';
 import Achievements from './pages/Achievements';
 import Classrooms from './pages/Classrooms';
 import Internship from './pages/Internship';
@@ -19,7 +19,7 @@ const App = () => {
       <div>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/courses" element={<Courses />} />
+          <Route path="/Services" element={<Services />} />
           <Route path="/Achievements" element={<Achievements />} />
           <Route path="Classrooms" element={<Classrooms />} />
           <Route path="Internship" element={<Internship />} />

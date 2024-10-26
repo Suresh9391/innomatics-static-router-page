@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Suresh9391/innomatics-static-router-page/static/css/main.a07a7039.css",
-    "main.js": "/Suresh9391/innomatics-static-router-page/static/js/main.b423b7a2.js",
+    "main.js": "/Suresh9391/innomatics-static-router-page/static/js/main.6dd56cfa.js",
     "static/js/453.98e07ef8.chunk.js": "/Suresh9391/innomatics-static-router-page/static/js/453.98e07ef8.chunk.js",
     "index.html": "/Suresh9391/innomatics-static-router-page/index.html",
     "main.a07a7039.css.map": "/Suresh9391/innomatics-static-router-page/static/css/main.a07a7039.css.map",
-    "main.b423b7a2.js.map": "/Suresh9391/innomatics-static-router-page/static/js/main.b423b7a2.js.map",
+    "main.6dd56cfa.js.map": "/Suresh9391/innomatics-static-router-page/static/js/main.6dd56cfa.js.map",
     "453.98e07ef8.chunk.js.map": "/Suresh9391/innomatics-static-router-page/static/js/453.98e07ef8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a07a7039.css",
-    "static/js/main.b423b7a2.js"
+    "static/js/main.6dd56cfa.js"
   ]
 }

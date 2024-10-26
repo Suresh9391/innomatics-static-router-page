@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import  Services from './pages/Services';
+import Design from './pages/Design';
+import Development from './pages/Development';
 import Achievements from './pages/Achievements';
 import Classrooms from './pages/Classrooms';
 import Internship from './pages/Internship';
@@ -19,7 +21,10 @@ const App = () => {
       <div>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/Services" element={<Services />} />
+          <Route path="/Services" element={<Services />} >
+            <Route path="design" element={<Design />} />
+            <Route path="development" element={<Development />} />
+          </Route>  
           <Route path="/Achievements" element={<Achievements />} />
           <Route path="Classrooms" element={<Classrooms />} />
           <Route path="Internship" element={<Internship />} />

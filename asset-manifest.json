@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/innomatics-static-router-page/static/css/main.689616f2.css",
-    "main.js": "/innomatics-static-router-page/static/js/main.48eae0bb.js",
-    "static/js/453.98e07ef8.chunk.js": "/innomatics-static-router-page/static/js/453.98e07ef8.chunk.js",
-    "index.html": "/innomatics-static-router-page/index.html",
-    "main.689616f2.css.map": "/innomatics-static-router-page/static/css/main.689616f2.css.map",
-    "main.48eae0bb.js.map": "/innomatics-static-router-page/static/js/main.48eae0bb.js.map",
-    "453.98e07ef8.chunk.js.map": "/innomatics-static-router-page/static/js/453.98e07ef8.chunk.js.map"
+    "main.css": "/static/css/main.689616f2.css",
+    "main.js": "/static/js/main.29c7996e.js",
+    "static/js/453.98e07ef8.chunk.js": "/static/js/453.98e07ef8.chunk.js",
+    "index.html": "/index.html",
+    "main.689616f2.css.map": "/static/css/main.689616f2.css.map",
+    "main.29c7996e.js.map": "/static/js/main.29c7996e.js.map",
+    "453.98e07ef8.chunk.js.map": "/static/js/453.98e07ef8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.689616f2.css",
-    "static/js/main.48eae0bb.js"
+    "static/js/main.29c7996e.js"
   ]
 }
